@@ -1,2 +1,5 @@
 require("garnetraven.remap")
+require("after.plugin.colors")
+require("after.plugin.telescope")
+require("after.plugin.lsp")
 require("packer")
